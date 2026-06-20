@@ -122,24 +122,11 @@ orders
 ## Project Structure
 
 SQL-Ecommerce-Analysis
-
-├── README.md
-
+│
+├── Dataset
 ├── SQL_Queries
-
-│ ├── Revenue_Analysis.sql
-
-│ ├── Customer_Analysis.sql
-
-│ └── Product_Analysis.sql
-
 ├── Findings
-
-│ └── Findings.md
-
 └── Recommendations
-
-└── Recommendations.md
 
 ---
 
